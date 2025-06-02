@@ -10,7 +10,7 @@
 
 ---
 
-![Tela Login Instagram Clone](img/banner2.png)
+![Tela Login Instagram Clone](img/tela-principal.png)
 
 Você pode ver o projeto em funcionamento [aqui](https://insta-login-page-xi.vercel.app/) 
 
